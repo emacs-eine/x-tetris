@@ -4,6 +4,8 @@
 # run-tetris
 > Play tetris
 
+[![CI](https://github.com/emacs-eine/run-tetris/actions/workflows/test.yml/badge.svg)](https://github.com/emacs-eine/run-tetris/actions/workflows/test.yml)
+
 ![](./etc/1.png)
 
 ## 💾 Installation
