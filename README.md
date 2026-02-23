@@ -6,7 +6,7 @@
 
 [![CI](https://github.com/emacs-eine/run-tetris/actions/workflows/test.yml/badge.svg)](https://github.com/emacs-eine/run-tetris/actions/workflows/test.yml)
 
-![](./etc/1.png)
+<img src="./etc/1.png" alt="" width="%10"/>
 
 ## 💾 Installation
 
