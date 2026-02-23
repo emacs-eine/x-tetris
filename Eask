@@ -2,7 +2,7 @@
 
 (package "run-tetris"
          "1.0.0"
-         "Play tetris")
+         "Play Tetris")
 
 (website-url "https://github.com/emacs-eine/run-tetris")
 (keywords "games")
