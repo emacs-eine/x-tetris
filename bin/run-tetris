@@ -5,7 +5,7 @@
 :;test -n "$EASK_EMACS" && EMACS=$EASK_EMACS
 :;exec "$EMACS" -batch -Q -l "$0" -- "$@"
 
-;;; run-tetris --- Play tetris  -*- lexical-binding: t; -*-
+;;; run-tetris --- Play Tetris  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2026  Shen, Jen-Chieh
 

@@ -2,7 +2,7 @@
 [![EINE Elpa](https://raw.githubusercontent.com/emacs-eine/badges/main/elpa/v/run-tetris.svg)](https://emacs-eine.github.io/elpa/#/run-tetris)
 
 # run-tetris
-> Play tetris
+> Play Tetris
 
 [![CI](https://github.com/emacs-eine/run-tetris/actions/workflows/test.yml/badge.svg)](https://github.com/emacs-eine/run-tetris/actions/workflows/test.yml)
 

@@ -1,4 +1,4 @@
-;;; run-tetris.el --- Play tetris  -*- lexical-binding: t; -*-
+;;; run-tetris.el --- Play Tetris  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2026  Shen, Jen-Chieh
 
@@ -26,7 +26,7 @@
 
 ;;; Commentary:
 ;;
-;; Play tetris.
+;; Play Tetris.
 ;;
 
 ;;; Code:
